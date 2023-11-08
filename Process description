@@ -1,0 +1,5 @@
+Task -1 Analyzing Insurance Costs
+Import Pandas and alias it as 'pd'.
+Read the CSV file movies insurance.csv into a Pandas DataFrame named 'df'.
+To import the 'insurance.csv' file, which is located in the root path of your project, you should use the following path: './insurance.csv'.
+Inspect the data by calling the variable 'df
